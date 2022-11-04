@@ -1,0 +1,50 @@
+debug message
+info message
+warn message
+error message
+critical message
+2022-09-21 16:42:35,362 - simple_example - DEBUG - debug message
+2022-09-21 16:42:35,362 - simple_example - INFO - info message
+2022-09-21 16:42:35,362 - simple_example - WARNING - warn message
+2022-09-21 16:42:35,362 - simple_example - ERROR - error message
+2022-09-21 16:42:35,362 - simple_example - CRITICAL - critical message
+2022-09-21 16:45:37,888 - simple_example - DEBUG - debug message
+2022-09-21 16:45:37,888 - simple_example - INFO - info message
+2022-09-21 16:45:37,888 - simple_example - WARNING - warn message
+2022-09-21 16:45:37,889 - simple_example - ERROR - error message
+2022-09-21 16:45:37,889 - simple_example - CRITICAL - critical message
+[31;1m2022-09-22 08:46:51,704 - simple_example - DEBUG - debug message
+[31;1m2022-09-22 08:46:51,705 - simple_example - INFO - info message
+[31;1m2022-09-22 08:46:51,705 - simple_example - WARNING - warn message
+[31;1m2022-09-22 08:46:51,705 - simple_example - ERROR - error message
+[31;1m2022-09-22 08:46:51,705 - simple_example - CRITICAL - critical message
+[31;1m2022-09-22 08:54:04,121 - simple_example - DEBUG - debug message[0m
+[31;1m2022-09-22 08:54:04,121 - simple_example - INFO - info message[0m
+[31;1m2022-09-22 08:54:04,121 - simple_example - WARNING - warn message[0m
+[31;1m2022-09-22 08:54:04,121 - simple_example - ERROR - error message[0m
+[31;1m2022-09-22 08:54:04,121 - simple_example - CRITICAL - critical message[0m
+[31;1m2022-09-22 08:54:47,468 - simple_example - DEBUG - debug message[0m
+[31;1m2022-09-22 08:54:47,468 - simple_example - INFO - info message[0m
+[31;1m2022-09-22 08:54:47,468 - simple_example - WARNING - warn message[0m
+[31;1m2022-09-22 08:54:47,469 - simple_example - ERROR - error message[0m
+[31;1m2022-09-22 08:54:47,469 - simple_example - CRITICAL - critical message[0m
+[33;20m2022-09-22 13:08:16,900 - simple_example - DEBUG - debug message (logging_6.py:44)[0m
+[33;20m2022-09-22 13:08:16,900 - simple_example - INFO - info message (logging_6.py:45)[0m
+[33;20m2022-09-22 13:08:16,900 - simple_example - WARNING - warn message (logging_6.py:46)[0m
+[33;20m2022-09-22 13:08:16,901 - simple_example - ERROR - error message (logging_6.py:47)[0m
+[33;20m2022-09-22 13:08:16,901 - simple_example - CRITICAL - critical message (logging_6.py:48)[0m
+[33;20m123[31;20m2022-09-22 13:09:22,737 - simple_example - DEBUG - debug message (logging_6.py:44)[0m
+[33;20m123[31;20m2022-09-22 13:09:22,737 - simple_example - INFO - info message (logging_6.py:45)[0m
+[33;20m123[31;20m2022-09-22 13:09:22,737 - simple_example - WARNING - warn message (logging_6.py:46)[0m
+[33;20m123[31;20m2022-09-22 13:09:22,737 - simple_example - ERROR - error message (logging_6.py:47)[0m
+[33;20m123[31;20m2022-09-22 13:09:22,737 - simple_example - CRITICAL - critical message (logging_6.py:48)[0m
+2022-09-22 13:10:21,430 - simple_example - DEBUG - debug message (logging_6.py:44)
+2022-09-22 13:10:21,430 - simple_example - INFO - info message (logging_6.py:45)
+2022-09-22 13:10:21,430 - simple_example - WARNING - warn message (logging_6.py:46)
+2022-09-22 13:10:21,430 - simple_example - ERROR - error message (logging_6.py:47)
+2022-09-22 13:10:21,431 - simple_example - CRITICAL - critical message (logging_6.py:48)
+2022-09-23 09:42:39,935 - simple_example - DEBUG - debug message (logging_6.py:39)
+2022-09-23 09:42:39,936 - simple_example - INFO - info message (logging_6.py:40)
+2022-09-23 09:42:39,936 - simple_example - WARNING - warn message (logging_6.py:41)
+2022-09-23 09:42:39,936 - simple_example - ERROR - error message (logging_6.py:42)
+2022-09-23 09:42:39,936 - simple_example - CRITICAL - critical message (logging_6.py:43)

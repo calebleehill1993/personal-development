@@ -1,0 +1,6 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Øresund and Malmö
+INFO:root:This is one way of adding variables: var1, var2 3
+INFO:root:Here is another way: var1, var2, 3

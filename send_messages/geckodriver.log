@@ -1,0 +1,245 @@
+1659653976158	geckodriver	INFO	Listening on 127.0.0.1:49600
+1659653978808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofilecp19Gt"
+2022-08-04 15:59:43.299 plugin-container[36676:6942388] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 15:59:43.299 plugin-container[36676:6942388] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 15:59:43.548 plugin-container[36676:6942388] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 15:59:43.548 plugin-container[36676:6942388] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 15:59:43.548 plugin-container[36676:6942436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 15:59:43.548 plugin-container[36676:6942436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659654026925	geckodriver	INFO	Listening on 127.0.0.1:49657
+1659654030449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofile3pOAZb"
+2022-08-04 16:00:31.074 plugin-container[36833:6943554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:00:31.074 plugin-container[36833:6943554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:00:31.095 plugin-container[36833:6943554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:00:31.095 plugin-container[36833:6943554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:00:31.095 plugin-container[36833:6943556] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:00:31.095 plugin-container[36833:6943556] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659654031229	Marionette	INFO	Marionette enabled
+1659654031266	Marionette	INFO	Listening on port 49670
+Read port: 49670
+1659654031464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659654042601	Marionette	INFO	Stopped listening on port 49670
+1659654099142	geckodriver	INFO	Listening on 127.0.0.1:49733
+1659654102592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofilegtIJQW"
+2022-08-04 16:01:43.164 plugin-container[37058:6945026] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:01:43.164 plugin-container[37058:6945026] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:01:43.167 plugin-container[37058:6945026] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:01:43.167 plugin-container[37058:6945026] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:01:43.168 plugin-container[37058:6945024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:01:43.168 plugin-container[37058:6945024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659654103281	Marionette	INFO	Marionette enabled
+1659654103323	Marionette	INFO	Listening on port 49746
+Read port: 49746
+1659654103515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-04 23:01:51.595 plugin-container[37092:6945431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:01:51.595 plugin-container[37092:6945431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 23:01:51.598 plugin-container[37092:6945431] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:01:51.598 plugin-container[37092:6945431] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 23:01:51.599 plugin-container[37092:6945449] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:01:51.599 plugin-container[37092:6945449] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 2322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?elo=1 line 2 > eval line 3322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?elo=1 line 2 > eval line 3146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659654187651	Marionette	INFO	Stopped listening on port 49746
+1659654191174	geckodriver	INFO	Listening on 127.0.0.1:49882
+1659654194648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofileleXz45"
+2022-08-04 16:03:15.202 plugin-container[37342:6947044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:03:15.202 plugin-container[37342:6947044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:03:15.206 plugin-container[37342:6947044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:03:15.206 plugin-container[37342:6947044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 16:03:15.206 plugin-container[37342:6947052] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 16:03:15.206 plugin-container[37342:6947052] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659654195316	Marionette	INFO	Marionette enabled
+1659654195352	Marionette	INFO	Listening on port 49895
+Read port: 49895
+1659654195531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=grandcentral&passive=1209600&osid=1&continue=https://voice.google.com/signup&followup=https://voice.google.com/signup line 2 > eval line 1523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=grandcentral&passive=1209600&osid=1&continue=https://voice.google.com/signup&followup=https://voice.google.com/signup line 2 > eval line 3849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-08-04 23:03:32.142 plugin-container[37402:6947631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:03:32.142 plugin-container[37402:6947631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 23:03:32.145 plugin-container[37402:6947631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:03:32.146 plugin-container[37402:6947631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 23:03:32.146 plugin-container[37402:6947651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 23:03:32.146 plugin-container[37402:6947651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659654215550	Marionette	INFO	Stopped listening on port 49895
+1659667528823	geckodriver	INFO	Listening on 127.0.0.1:51457
+1659667531007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofilensY6FW"
+1659667531362	Marionette	INFO	Marionette enabled
+1659667531456	Marionette	INFO	Listening on port 51468
+2022-08-04 19:45:31.493 plugin-container[75839:7126751] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:45:31.494 plugin-container[75839:7126751] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 19:45:31.497 plugin-container[75839:7126751] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:45:31.497 plugin-container[75839:7126751] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 19:45:31.497 plugin-container[75839:7126761] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:45:31.497 plugin-container[75839:7126761] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51468
+1659667531784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 02:45:40.051 plugin-container[75871:7127140] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:45:40.051 plugin-container[75871:7127140] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 02:45:40.055 plugin-container[75871:7127140] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:45:40.055 plugin-container[75871:7127140] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 02:45:40.055 plugin-container[75871:7127141] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:45:40.055 plugin-container[75871:7127141] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 5935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://voice.google.com"
+1659667732138	Marionette	INFO	Stopped listening on port 51468
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659667744349	geckodriver	INFO	Listening on 127.0.0.1:51614
+1659667746529	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofileJcIwXb"
+1659667746833	Marionette	INFO	Marionette enabled
+1659667746906	Marionette	INFO	Listening on port 51625
+Read port: 51625
+2022-08-04 19:49:06.944 plugin-container[76503:7130283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:49:06.945 plugin-container[76503:7130283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 19:49:06.950 plugin-container[76503:7130283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:49:06.951 plugin-container[76503:7130283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 19:49:06.951 plugin-container[76503:7130287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 19:49:06.951 plugin-container[76503:7130287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659667747240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 02:49:11.542 plugin-container[76527:7130635] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:49:11.543 plugin-container[76527:7130635] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 02:49:11.546 plugin-container[76527:7130635] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:49:11.546 plugin-container[76527:7130635] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 02:49:11.546 plugin-container[76527:7130644] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 02:49:11.546 plugin-container[76527:7130644] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 1548 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+1659668801546	Marionette	INFO	Stopped listening on port 51625
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1659668809448	geckodriver	INFO	Listening on 127.0.0.1:51811
+1659668811654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofile6srXnX"
+1659668811972	Marionette	INFO	Marionette enabled
+1659668812064	Marionette	INFO	Listening on port 51822
+2022-08-04 20:06:52.097 plugin-container[79848:7146738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:06:52.098 plugin-container[79848:7146738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:06:52.104 plugin-container[79848:7146738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:06:52.104 plugin-container[79848:7146738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:06:52.104 plugin-container[79848:7146745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:06:52.104 plugin-container[79848:7146745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51822
+1659668812418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 03:06:56.639 plugin-container[79868:7147086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:06:56.640 plugin-container[79868:7147086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:06:56.643 plugin-container[79868:7147086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:06:56.643 plugin-container[79868:7147086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:06:56.643 plugin-container[79868:7147092] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:06:56.643 plugin-container[79868:7147092] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 2104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659668837523	Marionette	INFO	Stopped listening on port 51822
+1659668865405	geckodriver	INFO	Listening on 127.0.0.1:51914
+1659668867616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofileCUhtUz"
+1659668867922	Marionette	INFO	Marionette enabled
+1659668868011	Marionette	INFO	Listening on port 51925
+Read port: 51925
+2022-08-04 20:07:48.052 plugin-container[80030:7148103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:07:48.052 plugin-container[80030:7148103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:07:48.056 plugin-container[80030:7148103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:07:48.056 plugin-container[80030:7148103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:07:48.056 plugin-container[80030:7148101] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:07:48.056 plugin-container[80030:7148101] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659668868379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 03:07:53.103 plugin-container[80054:7148453] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:07:53.103 plugin-container[80054:7148453] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:07:53.107 plugin-container[80054:7148453] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:07:53.107 plugin-container[80054:7148453] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:07:53.107 plugin-container[80054:7148463] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:07:53.107 plugin-container[80054:7148463] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 3263 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+1659669501198	Marionette	INFO	Stopped listening on port 51925
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659669506434	geckodriver	INFO	Listening on 127.0.0.1:52096
+1659669508605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofilee7zQ2t"
+1659669508925	Marionette	INFO	Marionette enabled
+1659669509013	Marionette	INFO	Listening on port 52107
+Read port: 52107
+2022-08-04 20:18:29.046 plugin-container[81962:7157706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:18:29.046 plugin-container[81962:7157706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:18:29.051 plugin-container[81962:7157706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:18:29.051 plugin-container[81962:7157706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:18:29.051 plugin-container[81962:7157708] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:18:29.051 plugin-container[81962:7157708] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659669509383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 03:18:34.153 plugin-container[81985:7158078] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:18:34.153 plugin-container[81985:7158078] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:18:34.157 plugin-container[81985:7158078] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:18:34.157 plugin-container[81985:7158078] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:18:34.157 plugin-container[81985:7158082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:18:34.157 plugin-container[81985:7158082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 6583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659669672494	Marionette	INFO	Stopped listening on port 52107
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659669683595	geckodriver	INFO	Listening on 127.0.0.1:52224
+1659669685780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofiletlJqMC"
+1659669686093	Marionette	INFO	Marionette enabled
+1659669686174	Marionette	INFO	Listening on port 52236
+Read port: 52236
+2022-08-04 20:21:26.211 plugin-container[82503:7160869] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:21:26.212 plugin-container[82503:7160869] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:21:26.217 plugin-container[82503:7160869] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:21:26.217 plugin-container[82503:7160869] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:21:26.217 plugin-container[82503:7160871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:21:26.217 plugin-container[82503:7160871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659669686533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-05 03:21:30.896 plugin-container[82525:7161210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:21:30.896 plugin-container[82525:7161210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:21:30.900 plugin-container[82525:7161210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:21:30.900 plugin-container[82525:7161210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:21:30.900 plugin-container[82525:7161207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:21:30.900 plugin-container[82525:7161207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 2848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659669864427	geckodriver	INFO	Listening on 127.0.0.1:52346
+1659669866676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sz/58t1xm39067_4nq916y5t6y80000gp/T/rust_mozprofile2AD3IR"
+*** You are running in headless mode.
+1659669866930	Marionette	INFO	Marionette enabled
+1659669866978	Marionette	INFO	Listening on port 52357
+Read port: 52357
+2022-08-04 20:24:27.018 plugin-container[83083:7164066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:24:27.023 plugin-container[83083:7164066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:24:27.039 plugin-container[83083:7164066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:24:27.039 plugin-container[83083:7164066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-04 20:24:27.039 plugin-container[83083:7164064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-04 20:24:27.039 plugin-container[83083:7164064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1659669867369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2022-08-05 03:24:31.200 plugin-container[83103:7164407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:24:31.200 plugin-container[83103:7164407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:24:31.204 plugin-container[83103:7164407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:24:31.204 plugin-container[83103:7164407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-05 03:24:31.204 plugin-container[83103:7164404] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-05 03:24:31.204 plugin-container[83103:7164404] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/bg/V6DtokwJh9Fgiqydg7O-dbjnh59Yi9_n4aBMW1s9fk8.js line 2 > eval line 210 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659669887731	Marionette	INFO	Stopped listening on port 52357
+JavaScript warning: https://www.google.com/js/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659705344314	Marionette	INFO	Stopped listening on port 52236

@@ -1,0 +1,389 @@
+﻿Start date,Employee type,GUID,Job Title,Departments,Reports To Full Name,Full Name,Office Locations,Office Country Name,Home Country Name,Departure date
+7/27/20,Full Time,4da2e8e5-9fe6-42c9-be6f-ed97a0dd2a94,Product Designer,UI,Israel Karasek,Nate Goullette,Company HQ,United States,United States,
+6/29/15,Full Time,ce31694f-3754-4e9e-81e5-f62be31bac25,Software Engineer,Development,Seth Samuels,Bill Dortch,Company HQ,United States,United States,6/30/17
+9/8/20,Full Time,35e9c677-bc92-4d2e-a671-5d405d81efc9,Site Reliability Engineer,Infrastructure & Reliability Engineering,Brennan Sandusky,Daniel Rahamim,Remote-WA,United States,United States,5/20/22
+5/16/16,Full Time,d85dc500-3914-4332-87a6-2e8cd1458fb7,Sr. Client Success Manager,Client Success,Kevin Garrett,Jon Dedych,Company HQ,United States,United States,10/16/19
+5/10/21,Full Time,204c56a4-5c76-4561-9adb-fda6264f4343,Client Success Manager,Client Success,Austin Bentley,Laurence Gutierrez,Company HQ,United States,United States,
+5/10/21,Full Time,c21f81f1-9129-46a1-b428-fcf4b9c93e8b,Client Success Manager,Client Success,Nick Bentley,Neil Fiedler,Company HQ,United States,United States,
+2/6/19,Full Time,073cc372-4c9a-4e1d-b3fd-a97320fc210f,Graphic Designer,Marketing,Rory O'Rorke,Pat Moriearty,Company HQ,United States,United States,10/11/19
+6/25/18,Contractor,c12ceeb8-f5bb-4573-8d10-ab8d33c9f2c9,"Regional GM, China",Sales,Jeff Chai,Yuli Wang,China,,China,
+10/1/15,Full Time,a201878d-ce21-4489-b014-51b3d6397fcc,GM of the Collective,Executive,Charles Manning,Grant Cohen,Company HQ,United States,United States,11/1/19
+8/8/16,Full Time,0525c687-6eeb-4e49-b7b1-164c3139b999,Content Marketing Specialist,Marketing,Leslie Amadio,Jani Gonzalez,Company HQ,United States,United States,12/31/21
+2/2/15,Full Time,05810b50-5776-4f7f-815b-62e917e50ef1,Content Marketing Specialist,Marketing,Jason Hicks,Jeremy Grimm,Company HQ,United States,United States,5/9/17
+6/16/14,Full Time,1fdb18cf-7d51-486a-b3f1-a9f12144b646,"GM, m/OS",Executive,Charles Manning,Jason Hicks,Company HQ,United States,United States,
+7/18/16,Full Time,8318da76-efc9-4247-aadb-78a0c7c41d8a,Manager of Kochava Success,Client Success,Patrick Hurley,Luke Schramm,Company HQ,United States,United States,
+5/23/22,Intern,52569b28-7d1b-4459-a2df-6eed3c2ee1da,Software Engineering Intern,Solution Engineering,Mike Peck,Tres Hiatt,Company HQ,United States,United States,
+5/23/22,Intern,92a9fff6-6724-44db-9b80-6b6fde2d17d4,Marketing Intern,Marketing,Mary Miller,Conrad LeDrew,Company HQ,United States,United States,
+2/1/22,Contractor,e24cf9e8-996e-40e5-9348-772f51c29cca,Marketing Development Representative,Sales,Arthur Novarina,Kate Kuznetsova,Germany,,Ukraine,
+5/23/22,Full Time,c9641676-43b3-48f6-b62c-f1736525a749,Head of Product,Product,Bryce Kliewer,Hamilton Radcliffe,Remote-CO,,United States,
+5/23/22,Full Time,b8cd4362-ec11-435c-a010-78cbcbd0f1c0,"VP of Sales, Ad Tech Partnership",Sales,Trevor Hamilton,Geordie Holbert,Remote-CA,United States,United States,
+5/17/21,Full Time,a1f85860-d5f3-4d35-93b4-103256794685,Product Manager,Product,Hamilton Radcliffe,Nate Bessler,Company HQ,United States,United States,
+5/17/21,Full Time,84a8abb3-45f9-449d-b83b-ef5c9f7f2d88,Site Reliability Engineer,Infrastructure & Reliability Engineering,Brennan Sandusky,Omar Buhidma,Remote-TX,,United States,6/17/22
+5/17/21,Full Time,74025d56-b749-494e-8af8-82eea4f54205,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Gabe Hasenoehrl,Remote-WA,United States,United States,
+5/10/21,Contractor,90d406a3-508b-4bbf-9439-af9af7e77274,"GM, Southeast Asia",Sales,Jeff Chai,Jaime Ocampo,Philippines,,Philippines,
+5/17/21,Full Time,519554ba-04d7-496b-b3bb-8054c8745262,Associate Data Science Analyst,Data Science,Phil Peck,Caleb Hill,Company HQ,United States,United States,
+11/28/14,Full Time,3b050721-efd6-41f6-ab5e-a6b9cd4d6dae,Manager of Product Operations,Client Success,Patrick Hurley,LJ Jensen,Company HQ,United States,United States,
+11/30/15,Full Time,0cd0f9d5-b7d1-4f78-bdd0-793fe9825ba2,Sr Technical Writer,Client Success,LJ Jensen,Todd Lambert,Company HQ,United States,United States,
+8/24/10,Full Time,f34b9c75-2802-4842-8df8-6cca426548be,Senior Integrations Analyst,Client Success,LJ Jensen,Ann Miller,Company HQ,United States,United States,
+2/25/14,Full Time,420abea6-a1b2-46d8-a781-dd69e0e1b3c0,Director of Sales Engineering,Client Success,Matt Gillis,James Benoit,Company HQ,United States,United States,
+8/1/21,Full Time,26371127-42a4-4a27-bd0f-c982ac218f5e,Product Analyst,Client Success,LJ Jensen,Andrew Schuhle,Company HQ,United States,United States,
+3/9/20,Full Time,457f3515-e627-47fc-b1ea-250cd14769b6,Sr Product Operations QA Analyst,Client Success,LJ Jensen,Dylan Rowan,Remote-OK,,United States,
+9/21/20,Contractor,18a1aa34-c891-4226-804b-05c4878746ec,Regional Sales Director,Sales,Arthur Novarina,Luca  Livesi,England,,United Kingdom,
+7/24/17,Full Time,09dd48ff-afe6-4009-b05d-fecd8d2a065a,Software Engineer,Development,Vince Prevost,Jon Cherry,Company HQ,United States,United States,
+4/6/15,Full Time,b8f4c411-adeb-43ea-ba1d-38a436ad89dd,Sr Client Insights Analyst,Client Analytics,Kevin King,Seth Turnlund,Company HQ,United States,United States,
+3/15/21,Full Time,cf076162-2aac-48fd-9fe8-499a2f54e8d9,Marketing Development Representative,Marketing,,Chris Gray,Company HQ,United States,United States,2/4/22
+1/4/21,Full Time,e95cd0ee-802c-4485-844b-617fe210443a,Sr Project Manager,Product,,Suzun Kaiser,Company HQ,United States,United States,5/21/21
+8/7/17,Full Time,2c49abe6-92c4-4d05-867c-73c1b8e59a3c,Product Manager,Product,Hamilton Radcliffe,Geoff Marshall,Company HQ,United States,United States,
+8/1/21,Full Time,43246a16-bb4e-4f1d-ac6b-526ff8b46f65,CRO,Executive,Charles Manning,Nic Beraudo,Remote-CA,United States,United States,
+8/1/14,Full Time,2b33e186-dfe4-4764-84f5-9dd7ca90b337,"EVP, Engineering",Development,Bryce Kliewer,Seth Samuels,Company HQ,United States,United States,
+8/15/16,Full Time,471ab513-ca34-4f97-a5d7-5defae791d9c,CTO,Executive,Charles Manning,Ethan Lewis,Company HQ,United States,United States,
+8/1/21,Full Time,dd82df50-84b9-43cf-81b3-8e35e925d18b,COO,Executive,Charles Manning,Bryce Kliewer,Remote-CO,,United States,
+10/11/21,Full Time,ee172b6e-850c-4f99-909e-c3b044fcb38f,Product Marketing Specialist,Marketing,Jeff Richardson,Andrew Sorg,Remote-WA,United States,United States,
+1/25/21,Full Time,85733a79-1954-440c-9e8d-1fa47ce84a8b,Client Insights Analyst,Client Analytics,Tyler Levasseur,Malachi Dunn,Remote-WA,United States,United States,
+1/31/22,Full Time,0eb81da4-339e-4427-9184-2810a31c0105,Associate Client Success Manager,Client Success,Daniel Folan,Isela Torres,Ireland,,Ireland,
+6/14/21,Full Time,dc487387-4f6e-4b11-88f9-d34f51294122,Software Engineer - Front End,Development,Israel Karasek,Xavi Lourido,Spain,United States,Spain,
+3/1/21,Full Time,6b28be83-981d-48cd-8527-8ba232359bb1,Manager FP&A,Administration,Doug Lieuallen,Erin Bray,Company HQ,United States,United States,
+3/1/21,Full Time,ea2d4d84-332e-44f9-844d-4bbf73e8913f,Client Success Manager,Client Success,Daniel Folan,Gary Killeen,Ireland,,Ireland,
+6/22/20,Full Time,5cff078d-4577-497e-9a89-2d8016a310d7,Software Engineer,Development,Nathan Darst,Seann Moser,Remote-OR,United States,United States,
+3/16/20,Full Time,0c864d89-c26d-4abd-acd1-02a47c287951,Software Engineer,Development,Nathan Darst,Jimmy Keith,Company HQ,United States,United States,
+8/27/20,Contractor,11b6d8c5-0c35-4cf0-bc12-479b363ae587,Software Engineer - Solutions & Integrations,Solution Engineering,Scott Contri,Nicolas Lara,Argentina,,Argentina,
+2/1/21,Full Time,ccf51892-e6e2-4a42-a492-ce9c33d20968,VP Corporate Development & Strategy,Executive,Charles Manning,Matthew Hannus,Remote-SC,,United States,
+3/22/21,Full Time,f1e722be-7c80-4a80-92ce-ca2820e84a79,Data Scientist,Data Science,Paul Nieman,Connor Meneough,Company HQ,United States,United States,
+4/12/21,Full Time,0e1dde90-71dd-42db-9ee1-17559723fd8c,Client Success Manager,Client Success,Daniel Folan,Jullian BrandÃ£o,Ireland,,Ireland,
+4/12/21,Full Time,954eeecf-75c5-41f1-9ffa-79ce99231c25,UX Designer,Development,Israel Karasek,Cristina Pulido,Spain,United States,Spain,
+4/26/21,Full Time,0ee41c1f-4f8b-49a1-a89e-7efb1631d0ff,Salesforce Administrator,Marketing,Mary Miller,Katharine Swanson,Remote-ID,United States,United States,8/5/21
+5/24/21,Full Time,55274f9e-9af2-4aaa-b82b-c0c3656f0057,Client Partnership Manager,Client Partnerships,Levi Schoonover,Kirstan Eberle,Remote-ID,United States,United States,6/3/22
+4/28/21,Full Time,41f943cf-637b-46fc-83ff-0f505b5e11eb,"GM, Kochava Collective",Executive,Charles Manning,Dom Perfetti,Remote-MA,United States,United States,12/31/21
+4/28/21,Full Time,bb095650-de9b-4b34-9582-41b34f9257e1,"VP, Sales",Sales,Trevor Hamilton,Nick Bucci,Remote-MA,United States,United States,4/8/22
+4/28/21,Full Time,75ce17d8-d476-4920-aa16-0f45a7613ece,"Director, Software Engineering - Kochava Collective",Development,,Rich Garfield,Remote-MA,United States,United States,11/19/21
+4/28/21,Full Time,92a4ecfc-954c-457b-a509-7417f73f8a49,Lead Software Engineer - Kochava Collective,Development,,Jae Bradley,Remote-MA,United States,United States,12/3/21
+10/26/15,Full Time,5d82d8eb-d0a6-4563-a0ed-11f32140bae9,Associate Software Engineer,Development,,John Anderson,Company HQ,United States,,11/20/15
+4/3/17,Full Time,6ae98861-46bd-4638-a107-51de74ddf439,Graphic Designer,Marketing,Jason Hicks,Melanie Scott,Company HQ,United States,United States,11/8/17
+7/5/17,Full Time,b4f31476-1ad9-411f-a609-48e40c238750,Product Designer,Product,,Justin Stagge,Company HQ,United States,United States,4/3/20
+5/4/15,Full Time,caeb085f-f2a6-4b01-a599-936d7f12ef2f,Software Engineer,Development,Seth Samuels,Michael Capeloto,Remote-WA,United States,United States,8/25/17
+8/8/16,Contractor,1f095e77-de12-42d5-b549-189b2574be6c,"Managing Director, APAC",Sales,Nic Beraudo,Jeff Chai,China,,China,
+5/18/20,Full Time,23cf57d4-08d4-4df1-98a7-91837a6cb987,Software Engineer - Solutions & Integrations,Solution Engineering,Mark Wunsch,Joe Akers,Remote-MT,United States,United States,3/9/21
+2/4/19,Full Time,6727a9c3-2649-41e9-b86f-85ff830835a2,Senior Software Engineer,Development,Ethan Lewis,Kyle Bartush,Company HQ,United States,United States,2/12/21
+3/2/15,Full Time,1210fd66-ec1c-4fe5-a457-28956ed66c0b,Senior Product Manager,Product,Hamilton Radcliffe,Mark Kellogg,Company HQ,United States,United States,
+3/28/14,Full Time,023de40e-a86f-459d-89c5-2cf39674e521,Software Engineer,Development,,Daniel Finch,Company HQ,United States,,11/24/14
+7/15/19,Full Time,fd1a8fb5-038b-4453-8092-0b866aa1c882,Software Engineer - Solutions & Integrations,Solution Engineering,Scott Contri,Ben Budai,Company HQ,United States,United States,
+6/29/15,Full Time,f0cffbb9-ea93-4b29-87f1-6604cc595aa7,Data Scientist,Data Science,Paul Nieman,Anthony Russo,Company HQ,United States,United States,
+5/30/17,Full Time,326a7f6c-4899-44f5-80ef-502bd1d0a542,Client Success Manager,Client Success,Matt Gillis,Douglas Folen,Company HQ,United States,United States,10/20/17
+12/4/17,Full Time,3c7009b0-5652-4706-af65-5cde823a6851,Director of Client Partnerships,Client Partnerships,Nic Beraudo,Levi Schoonover,Company HQ,United States,United States,
+11/6/15,Full Time,83f0b09b-9919-4f5d-b690-5e567774d2ec,Senior Software Engineer - Front End,UI,Israel Karasek,Mike Fritzsche,Company HQ,United States,United States,1/14/22
+10/12/17,Full Time,fec7c1c5-69f1-4f78-a74a-0480b172d0b5,Head of Midwest Sales,Sales,Trevor Hamilton,Beau Davis,Remote-IL,United States,United States,6/30/22
+6/1/14,Full Time,03054de3-198b-4370-8ce4-645ba0b1f5ee,Data Warehouse Developer,Data Science,Paul Nieman,Nick Whitesel,Company HQ,United States,United States,
+4/22/19,Full Time,90f2bea0-aa99-43cf-aa96-a5f14f7368a3,Client Partnership Manager,Client Partnerships,Levi Schoonover,Sara Conger,Company HQ,United States,United States,4/9/21
+6/20/16,Full Time,beb57ece-c34f-46d7-a084-01a7dd362d60,Senior Software Engineer - iOS,Development,Nathan Darst,John Bushnell,Company HQ,United States,United States,
+8/26/19,Full Time,e65dc291-82d7-49d1-95db-4054a4e0e41f,Senior Marketing Development Representative,Marketing,Mary Miller,Hayden Mulcrone,Company HQ,United States,United States,
+2/5/18,Full Time,32b49b65-6ca4-4dc9-aaa6-13a0d2815c27,Principal Engineer,Development,Seth Samuels,Jeff Simpson,Remote-OH,United States,United States,
+4/20/15,Full Time,ada2e5c2-c01b-4deb-883d-cd4332cfa416,Enterprise Architect,Infrastructure & Reliability Engineering,Seth Samuels,Rob Lyon,Company HQ,United States,United States,12/27/19
+7/14/15,Contractor,cee1033c-5a80-443f-8c69-f476a8278834,Sr. Client Success Manager,Client Success,Zach Turnlund,Yuting Shi,China,,China,
+8/20/18,Full Time,6db74dbe-1c5c-40f7-a6e4-dfb3d8bec8dc,VP Sales - West,Sales,,JM Michael,Remote-CA,United States,United States,9/6/19
+2/2/15,Full Time,69bf2adb-4e88-4eeb-94ba-0f041e6c3fc8,"Director, Software Engineering - Front End",UI,Seth Samuels,Israel Karasek,Company HQ,United States,United States,
+9/16/19,Full Time,abe44a31-3275-4b4d-bd92-b37f0d6c6a18,Manager of Infrastructure Systems,Infrastructure & Reliability Engineering,Seth Samuels,David Carpentier,Remote-WA,United States,United States,
+6/27/16,Full Time,73a8e131-d343-4f5b-86cd-db5c147faa31,Systems Engineer,Infrastructure & Reliability Engineering,Seth Samuels,Robert Corbell,Company HQ,United States,United States,10/28/16
+8/13/18,Full Time,97ea2868-6991-4fb3-9cef-0f0ad0254c2e,In House Counsel,Administration,Dave Matt,David Sieck,Company HQ,United States,United States,12/31/18
+8/3/18,Contractor,12abc9dd-7753-4971-b0d6-da2b3cc3d313,Sr. Client Success Manager,Client Success,Daniel Folan,Brankica Reinhardt,Germany,,Germany,5/7/21
+6/1/21,Full Time,933b9fd3-d588-4085-b414-7fe210b2ef63,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Cade Newell,Remote-CO,,United States,
+8/14/17,Full Time,a6501ed9-cf88-4d01-a61a-ced993455ec3,"Senior VP, XCHNG",Executive,Charles Manning,Breaux Walker,Remote-CA,United States,United States,11/30/18
+7/11/16,Full Time,9aba8968-d7e4-49a5-bc87-a58ecdf9235d,DevOps Engineer,Infrastructure & Reliability Engineering,Seth Samuels,Troy Axthelm,Company HQ,United States,United States,2/3/17
+6/10/19,Full Time,eaeb3ac8-d2a6-423d-808d-85d5cb2f0f13,Sales Director,Sales,,Anil Chokshi,Remote-CA,United States,United States,3/19/20
+2/1/15,Full Time,9449632b-b63e-4a5a-b475-37b211cf1297,Lead Software Engineer,Development,,Yuanyi Pan,Company HQ,United States,,12/4/15
+2/1/20,Full Time,3d8310e5-46be-4d15-90c5-30fcbb5459a0,Client Success Manager,Client Success,Zach Turnlund,Yuta  Sato,Japan,,Japan,
+5/15/19,Contractor,f38c74c3-4dc6-4be0-aede-0e5ba5aeddda,Regional Sales Director,Sales,Jeff Chai,DongHee Cho,Korea,,"Korea, Republic of",
+12/18/17,Contractor,cace7d78-09f9-4f28-a45e-940ec6ff6889,Client Success Manager,Client Success,Zach Turnlund,Clara Ryu,Korea,,"Korea, Republic of",8/31/20
+3/16/15,Full Time,175b3238-7021-4032-a00b-4102ddb873c6,Software Engineer,Development,,Rajneesh Kumar,Company HQ,United States,,4/21/15
+9/23/19,Full Time,d4a30fbb-d546-4982-970c-787dac38c94e,Data Science Analyst,Data Science,Paul Nieman,Tim Volstad,Company HQ,United States,United States,2/19/21
+2/18/19,Full Time,7e55c627-f70a-4ebb-99ed-be6e1c136718,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Turner Cruz,Spain,United States,United States,
+5/8/17,Full Time,6807ce2f-7751-4605-8dca-f8e424dca14d,Creative Design Intern,Marketing,Kimberly Manning,Joel Smith,Company HQ,United States,United States,8/17/18
+9/14/20,Full Time,641f2c78-6067-4e5d-aad4-59691d352471,Software Engineer,Development,Nathan Darst,Jason Catmull,Remote-ID,United States,United States,
+3/30/15,Full Time,333d3ac6-4c3b-480b-bf45-3fe3a7609504,Senior Director of Brand,Marketing,Nic Beraudo,Kimberly Manning,Company HQ,United States,United States,
+3/20/17,Full Time,9b58aa0a-c63a-4faf-8892-b17f6dd87edb,"Managing Director, Americas",Sales,Nic Beraudo,Trevor Hamilton,Remote-NJ,United States,United States,
+4/22/19,Full Time,61abe15f-cdcd-4ba9-bd96-431c99a4de1e,Sr. Client Success Manager,Client Success,Nick Bentley,Bryant Cafferty,Company HQ,United States,United States,10/1/21
+9/9/19,Full Time,3c6ac01f-a4a2-481a-ab51-e8198201a885,Client Success Manager,Client Success,Austin Bentley,Lachlan Taggart,Company HQ,United States,United States,
+8/28/17,Full Time,02f62e2d-05af-472c-a9d0-9e083d38bb60,"Manager of Client Success, m/OS",Client Success,Matt Gillis,Daniel Folan,Ireland,,Ireland,
+9/6/16,Full Time,5fe8ae27-011d-4fe7-9491-c0f768636613,Associate Software Engineer,Development,Vince Prevost,Brian Kemper,Remote-UT,,United States,1/29/20
+6/5/17,Full Time,955befd3-5dab-4412-bbc1-9a99bbfbf9e8,Principal Engineer,Development,Ethan Lewis,Rick Boss,Company HQ,United States,United States,10/1/21
+10/31/16,Full Time,6c2ee8f7-782f-4836-9a09-d4648e334fdd,Senior Product Marketing Manager,Marketing,Mary Miller,Jeff Richardson,Company HQ,United States,United States,
+10/15/13,Full Time,34f54348-b01b-4f9c-8685-7d2a7803bbf0,Inside Sales Manager,Sales,,Chris Blair,Company HQ,United States,United States,8/30/16
+6/19/17,Full Time,c96bef7a-0266-4cd6-9566-fa8d0c6035cd,Data Science Analyst,Data Science,Paul Nieman,Dave Wood,Company HQ,United States,United States,
+2/1/15,Full Time,710bc15c-2506-49db-b73a-b780f5c25288,"Director, Software Engineering",Development,Seth Samuels,Vince Prevost,Company HQ,United States,United States,
+9/17/14,Full Time,62c93b94-777e-4253-9e94-30b779e74f7e,"Dir, Data Science",Data Science,Bryce Kliewer,Paul Nieman,Company HQ,United States,United States,
+6/29/15,Full Time,13f0663b-c190-474d-865c-132ea91552e8,Support Engineer,Infrastructure & Reliability Engineering,Seth Samuels,Adam Murray,Company HQ,United States,United States,10/3/16
+9/22/14,Full Time,e11bc604-f399-4820-935e-ab56444e1186,CFO,Executive,Charles Manning,Doug Lieuallen,Company HQ,United States,United States,
+6/19/17,Part Time,fa3ccb10-f4cf-4aa7-af93-6d2727f12561,Support Engineer Intern,Infrastructure & Reliability Engineering,Gordon Brown,Tori Hewitt,Company HQ,United States,United States,8/16/19
+7/17/17,Full Time,0dbb9c0a-63f3-4cf6-9e97-c2f6a978be4b,Vice President of Marketing,Marketing,Jason Hicks,Ben Stein,Company HQ,United States,United States,3/22/19
+7/29/19,Full Time,a723c9a6-3db7-41da-a735-4a45555ac1c6,Software Engineer,Solution Engineering,Vince Prevost,Trevor Chapman,Oregon,United States,United States,10/11/19
+6/15/20,Full Time,17e3a3bd-c2db-4c8e-9702-d5ce93795201,Software Engineer,Development,Nathan Darst,Brett Barinaga,Company HQ,United States,United States,7/19/22
+7/7/14,Full Time,38aaa629-3113-48b4-b61f-88d7e58268cf,Software Engineer,Development,,Mark Rudolph,Company HQ,United States,,9/15/14
+9/8/14,Full Time,1a57650f-54a5-4ac0-9368-b2043042616b,Systems Engineer,Infrastructure & Reliability Engineering,,Jack Moore,Company HQ,United States,,3/20/15
+4/22/19,Full Time,1a7f5c94-4ab9-4115-9c71-bf0d046821fa,Sr. Client Success Manager,Client Success,Austin Bentley,Tyson Adams,Company HQ,United States,United States,
+8/1/11,Full Time,3be59f27-fcaa-4777-a68e-3c3b355d7d42,Systems Engineer,Infrastructure & Reliability Engineering,,Jason Harris,Company HQ,United States,,7/23/15
+8/10/20,Full Time,e321905a-4475-4635-ac26-b2956e250e58,Client Success Manager,Client Success,Daniel Folan,Nigel  Pereira,Ireland,,Ireland,12/31/20
+7/22/19,Full Time,f0ceb5c5-4eb4-4b39-90cb-a1b1cd9d7166,Associate Client Success Manager,Client Success,Matt Gillis,Cezar Botel,Ireland,,Ireland,8/1/19
+5/1/15,Full Time,8a2ae438-5a2c-4f72-b4b5-3320ad7bf8be,Software Engineer - Solutions & Integrations,Solution Engineering,Mark Wunsch,Bruce Bales,Company HQ,United States,United States,8/7/20
+4/13/15,Full Time,ff876f14-df31-457b-9d9b-3be824a8882c,Software Engineer,Development,Vince Prevost,Chris Purta,Company HQ,United States,United States,11/19/19
+6/1/10,Full Time,baad4629-d6de-43f7-9370-05dafda99be6,Senior Software Engineer - Android,Development,,Tyler Wilson,Company HQ,United States,,2/27/15
+4/30/18,Full Time,2ff05b5d-579a-4559-970b-aebd649569c3,Sales Director,Sales,Trevor Hamilton,Alison Vacovec,Remote-NY,,United States,10/4/18
+5/31/16,Full Time,098f33fa-f642-41b0-8827-4a7e8e79a105,Director of Human Resources,Administration,Doug Lieuallen,Greg Dieffenbach,Company HQ,United States,,7/29/16
+9/2/14,Full Time,356de610-3a7f-4885-a2ac-261c3c879452,Database Administrator,Infrastructure & Reliability Engineering,Seth Samuels,Scott Klasing,Company HQ,United States,United States,8/14/19
+5/20/19,Part Time,1733046a-4da0-4935-a4ee-0c1837ab1569,Software Engineering Intern,Solution Engineering,Mark Wunsch,Matt Repplier,Company HQ,United States,United States,1/8/20
+12/17/18,Full Time,b0b5394e-c12e-4a8c-a7bf-0b4cfb898ecf,Software Engineering Manager - Integrations,Solution Engineering,Mike Peck,Scott Contri,Company HQ,United States,United States,
+1/20/20,Full Time,8cc02a33-afdb-44d7-b3a7-7cdd0e58aa70,Marketing Automation Specialist,Marketing,Mary Miller,Chris Silver,Company HQ,United States,United States,6/4/21
+8/26/19,Full Time,9b86f759-686f-4d28-bec2-2f67083e8a00,Client Partnership Manager,Client Partnerships,Levi Schoonover,Trina Harris,Company HQ,United States,United States,3/26/21
+7/1/19,Contractor,acea2434-9ad3-489b-bca3-1f21e054be46,Regional Sales Director,Sales,Jeff Chai,Makoto Katayanagi,Japan,,Japan,8/31/20
+1/13/20,Full Time,27e33af3-f3fc-45ad-ac44-b9ee5ff5b788,Site Reliability Engineer,Infrastructure & Reliability Engineering,Brennan Sandusky,Austin Sass,Company HQ,United States,United States,
+8/8/16,Full Time,32da0fef-c6c1-465e-952b-83c9a3d69dcc,VP of Client Analytics,Client Analytics,Bryce Kliewer,Grant Simmons,Company HQ,United States,United States,
+6/10/19,Intern,930103d7-02ef-4c5b-85c4-a22d75c6b692,Client Insights Intern,Client Analytics,Grant Simmons,Kyle Wadell,Company HQ,United States,United States,8/15/19
+9/8/20,Full Time,22f0310c-c50d-411e-ab10-bd55d0bf746c,Front End Developer,Marketing,Kimberly Manning,Molly Prior,Remote-ID,United States,United States,3/31/22
+1/29/18,Full Time,e251711f-f1ba-4cbf-a88b-a440d5637f8b,Director of Human Resources,Administration,Doug Lieuallen,Jill Bentley,Company HQ,United States,United States,
+9/21/16,Full Time,a81ae5c9-57dc-4eb5-8ce7-0db4c641eeaa,Legal Assistant,Administration,Dave Matt,Janaye Hutchison,Remote-OR,United States,United States,
+5/11/20,Full Time,0964e77f-e830-474d-8884-0e6b19a4965a,Sr. Client Success Manager,Client Success,Nick Bentley,Matt McCartney,Company HQ,United States,United States,11/30/21
+12/2/19,Full Time,58b54db7-097a-45d5-a4d0-b92e446a5cf5,Associate Client Success Manager,Client Success,Kevin Garrett,Sterling Duggan,Company HQ,United States,United States,12/4/20
+5/11/15,Full Time,eb7c54b1-f9bf-4acf-9268-ad9d56603d83,Dir Product Mgmt,Product,Bryce Kliewer,Brian Wilson,Company HQ,United States,United States,3/11/22
+11/1/16,Contractor,b0513257-d5ec-469f-8b25-4c5eb474c936,Client Success Manager,Client Success,Matt Gillis,Flavia Alexe,Ireland,,Ireland,12/31/18
+10/10/16,Full Time,d8bd775d-75d2-4a0b-933d-638e67f4f51b,Support Engineer,Infrastructure & Reliability Engineering,Seth Samuels,Gordon Brown,Company HQ,United States,United States,
+10/5/15,Full Time,4ed9deb5-0ee3-49ee-a830-cf08ea9c2655,Client Success Manager,Client Success,Matt Gillis,Ian Liddle,Company HQ,United States,United States,3/28/16
+6/10/10,Full Time,cdb98a14-e543-454d-8f68-ba1cf521dbe3,Product Marketing Mgr-Collective,Marketing,Mary Miller,Justin Landis,Company HQ,United States,United States,12/4/19
+7/30/18,Full Time,6167493b-e997-4798-acc9-dff7c936e566,Marketing Development Representative,Marketing,,Katie Fisher,Company HQ,United States,United States,5/19/20
+7/8/19,Full Time,6ec4752a-4f6a-4b09-9dc3-16b8eb97661b,Vice President of Marketing,Marketing,Nic Beraudo,Mary Miller,Company HQ,United States,United States,
+4/6/20,Full Time,ce33b846-2266-44c1-a9cd-e16e9b6cf742,"Manager, Site Reliability Engineer",Infrastructure & Reliability Engineering,Seth Samuels,Brennan Sandusky,Remote-MT,United States,United States,
+1/15/16,Full Time,15296002-d614-49c2-8000-d23ecba6d98d,Director of Sales Engineering,Product,,Jeff Stecyk,Remote-CA,United States,United States,1/12/17
+10/30/16,Full Time,322f68c2-1294-4bf3-a632-a8c28ce0bcf7,Product Manager,Product,Seth Samuels,Zachary Nees,Company HQ,United States,United States,8/18/17
+2/2/16,Full Time,c7700d5f-e2ec-430a-aee9-e3ac473fee9e,Creative Director,Marketing,Kimberly Manning,Rory O'Rorke,Company HQ,United States,United States,
+5/2/16,Full Time,4b4a9fd2-58b8-4933-8c27-049ecb527236,"Director, Product Engineering",Solution Engineering,Seth Samuels,Mark Wunsch,Company HQ,United States,United States,
+1/28/19,Contractor,bb7ce5f2-e2de-4229-8f9e-ebd9e14c99ff,Associate Client Success Manager,Client Success,Matt Gillis,Jordan Ong,Ireland,,Ireland,5/22/20
+8/21/17,Full Time,621b0816-6f7b-4fd5-bf96-5d593510d577,Senior Database Administrator,Infrastructure & Reliability Engineering,,Will Mayall,Oregon,United States,United States,7/2/21
+8/28/17,Full Time,fe684a7b-1ae1-4e63-8f43-c861d6d7b308,Data Scientist,Data Science,Paul Nieman,Joe Hutchings,Remote-UT,,United States,2/12/21
+12/1/15,Contractor,10141773-870b-4e4a-9420-6f1ae9de538c,Marketing Manager - APAC,Marketing,Mary Miller,Jennifer Lee,Korea,,"Korea, Republic of",
+5/14/18,Part Time,07454d14-10d2-4b61-a099-a949d59c7708,Software Engineering Intern,Solution Engineering,Mark Wunsch,Mitchell Rust,Company HQ,United States,United States,4/17/20
+6/13/16,Full Time,0a8eaa9c-d6f6-4270-b3bf-fc5619d76bfe,Client Success Manager,Client Success,Matt Gillis,Eric Stockton,Company HQ,United States,United States,1/3/17
+3/31/19,Full Time,2c69d664-38ae-424f-8ae1-aad79fbb7e56,Site Reliability Engineer,Infrastructure & Reliability Engineering,,Jason Davila,Oregon,United States,United States,8/11/20
+12/7/15,Full Time,744d26e9-1195-40c0-ace9-e00bb4f6de28,Executive Business Partner,Administration,Doug Lieuallen,Heather Petersen,Company HQ,United States,United States,
+5/30/17,Full Time,b47a35df-e04b-4da0-a5af-febcf3575a89,Software Engineer - Front End,UI,Israel Karasek,Tyler Gervais,Company HQ,United States,United States,
+3/23/20,Full Time,c6aa8077-62ec-44d2-8ed1-1e2d3430680d,Software Engineer,Development,Nathan Darst,Keith Hesser,Company HQ,United States,United States,
+1/4/16,Full Time,40287c1e-c09b-43ac-b4ff-2e699535ed7f,General Counsel,Administration,Doug Lieuallen,Dave Matt,Company HQ,United States,United States,
+3/16/15,Full Time,d7308138-abff-45ce-9a42-92af717e618d,Systems Engineer,Infrastructure & Reliability Engineering,,Larry Reznick,Company HQ,United States,,6/2/15
+7/15/14,Full Time,5d5e23f8-1b04-4aab-bb4f-da1541d9d247,Senior Sales Manager,Sales,,Tim Sanger,Company HQ,United States,,3/18/16
+9/5/17,Full Time,c874fb7b-2785-4079-9106-f20249531103,"Senior Manager of Client Success, US",Client Success,Matt Gillis,Nick Bentley,Company HQ,United States,United States,
+12/9/19,Full Time,da55e4a0-9545-47c8-b2d6-4ab35fabd85d,Graphic Designer,Marketing,Rory O'Rorke,Riley Emmer,Company HQ,United States,United States,
+5/20/19,Part Time,c1669f93-666d-4542-b91c-cfe4a2befe97,Software Engineering Intern,Solution Engineering,Mark Wunsch,Brian Clow,Company HQ,United States,United States,10/11/19
+5/20/19,Contractor,14c61e3b-15d9-4616-8c43-03bc401a853f,Client Success Manager,Client Success,Zach Turnlund,Steve Kim,Korea,,"Korea, Republic of",
+4/13/15,Full Time,17a0ae30-5f17-4673-aee2-4afa43b10931,Senior Software Engineer - Front End,UI,Israel Karasek,Carlo Pati,Company HQ,United States,United States,5/7/21
+5/28/19,Intern,59a40f1c-57d8-4605-b5ae-a47129cc5816,Marketing Intern,Marketing,,Jackson Diercks,Company HQ,United States,United States,8/22/19
+5/8/17,Full Time,211f0ea7-42de-4907-9482-423a10c9fef8,Marketing Development Representative,Marketing,Mary Miller,Peter Sherman,Company HQ,United States,United States,
+9/1/20,Full Time,9ca8921e-841e-4361-8616-c05d1464713f,Software Engineering Manager,Development,Ethan Lewis,Matteo Bruno,Spain,United States,Spain,7/27/21
+4/10/17,Full Time,4ef9cd32-9ee9-4aaa-92f2-d28ce383b916,Client Success Manager,Client Success,Kevin Garrett,Duke Diercks,Company HQ,United States,United States,9/17/21
+7/29/19,Full Time,97d43d36-d647-4953-b695-19068e047915,Network Engineer,Infrastructure & Reliability Engineering,,Cary Holcomb,Remote-ID,United States,United States,3/11/22
+3/9/20,Full Time,36e2b77b-94e9-4e9f-9e69-a1acd4d5b6e4,Client Success Manager-Collective,Client Success,Melinda Park,Chels Peacock,Company HQ,United States,United States,4/7/22
+6/1/20,Full Time,201cd6a9-6c7c-4319-a6e1-45010f4d7054,Client Insights Analyst,Client Analytics,Tyler Levasseur,Nate Burley,Company HQ,United States,United States,2/11/22
+5/4/15,Full Time,0926e8e3-ca8a-42fc-9381-1fc3255c42e4,Lead Software Engineer/Architect,Development,Seth Samuels,Johnny Hom,Remote-WA,United States,,1/22/16
+5/14/18,Full Time,63c954a4-1059-48f4-b8a3-7c4a811f2238,Software Engineer - Front End,UI,Israel Karasek,Elliot Richardson,Company HQ,United States,United States,5/29/20
+6/15/20,Full Time,6910cff5-129c-4868-93b9-1ba3509d9d24,Software Engineer,Development,Seth Samuels,Juan Mora,Spain,United States,Spain,11/19/21
+10/1/14,Full Time,d28b067b-c287-4ed0-8e5b-70af7706431f,"EVP, Strategic Sales",Sales,Charles Manning,Garrett MacDonald,Remote-CA,United States,United States,6/25/21
+2/1/20,Full Time,a7731f75-2532-47b1-b0db-09caff4af99b,Software Engineer,Development,Ethan Lewis,Giulio Ministeri,Spain,United States,Spain,7/30/21
+1/2/18,Full Time,0b332449-ad93-4612-a320-c780ead67836,"VP of Sales, Ad Tech Partnership",Sales,Trevor Hamilton,Joe Macaulay,Remote-MA,United States,United States,4/15/22
+2/20/18,Full Time,0e4e2994-1c03-4488-8686-8ea64f5934dc,Salesforce Administrator,Marketing,Mary Miller,Alicia Ellingwood,Company HQ,United States,United States,2/26/21
+1/3/17,Full Time,e803f763-068a-440d-97cf-2a93c7018943,Sr Product Analyst,Product,Mark Kellogg,Josh Mireley,Company HQ,United States,United States,1/23/19
+9/12/16,Full Time,b666b11c-cb03-4786-a89e-115934103cf4,"Manager, Data Science",Data Science,Paul Nieman,Phil Peck,Company HQ,United States,United States,
+10/2/17,Full Time,0a0fa8a8-f3cb-450e-9d02-4625ac57bd67,"Sales Director, Gaming",Sales,Trevor Hamilton,Travis Talaska,Company HQ,United States,United States,
+3/1/16,Full Time,b2c0e39d-8298-463f-8d8c-edd769fb1ebd,"VP, Sales",Sales,,Ross Sandler,Remote-NJ,United States,United States,5/1/17
+5/22/17,Full Time,854ac41b-0d2c-4351-99c0-5f92e1dabe77,Sr Client Partnership Manager,Client Partnerships,Levi Schoonover,Nic Kuhn,Company HQ,United States,United States,
+12/2/19,Full Time,7f23975a-600b-42b8-9b9d-6655985df83c,Product Marketing Specialist,Marketing,Jeff Richardson,Jess Wellman,Company HQ,United States,United States,4/21/21
+7/1/12,Full Time,6982ed6a-4929-4f09-8d28-8b8ca194edd6,"VP, Product Operations",Client Success,Bryce Kliewer,Matt Gillis,Company HQ,United States,United States,
+9/12/16,Full Time,20715739-6704-43c3-9102-e22f1275c948,Client Success Manager,Client Success,Patrick Hurley,Todd  Wilson,Company HQ,United States,United States,5/23/19
+1/1/16,Contractor,6d311c55-98ca-447e-b079-bbdb6965aae3,Business Development Mgr,Sales,Jeff Chai,Saeromi Kim,Korea,,"Korea, Republic of",12/31/18
+8/8/16,Full Time,8f2fc781-9db3-4372-ad3d-b3e31852d2f4,Senior Product Manager,Product,,Vivian Watt,Company HQ,United States,United States,1/28/22
+3/16/20,Full Time,cf89ee14-538f-4267-8d00-07948c7efd68,Client Success Manager,Client Success,Matt Gillis,Sarah Brennan,Ireland,,Ireland,7/2/20
+6/13/16,Full Time,35480224-b861-411d-bca6-01ae98572369,Client Success Manager,Client Success,Matt Gillis,Kyle Gaunt,Company HQ,United States,United States,4/27/17
+5/1/17,Contractor,888b9420-9821-42ae-8ad8-0552aa8ffed6,Sr. Client Success Manager,Client Success,Zach Turnlund,Jena Lee,Singapore,,Singapore,
+5/16/16,Intern,02437e87-c213-437b-81fb-73cb4e3947cb,Marketing Intern,Marketing,,Anthony Walker,Company HQ,United States,United States,8/17/18
+1/1/10,Full Time,7b974fae-a6fc-45a3-a933-305b2eba1d7d,CEO,Executive,,Charles Manning,Company HQ,United States,United States,
+9/9/19,Contractor,367ed8a2-5127-4ae0-b1dd-3fc2609755db,"Regional VP of Sales, EMEA",Sales,Charles Manning,Ryan Goeden,England,,United Kingdom,5/28/21
+7/11/16,Full Time,47be23fc-96e8-4ea7-b38c-194a97287486,Senior Software Engineer,Development,Ethan Lewis,Jerod Bury,Company HQ,United States,United States,8/31/18
+4/27/20,Full Time,a7011625-968d-4056-ae96-4364b57d351b,Data Analyst,Client Analytics,Kate Darren,Caylan Kolste,Remote-WA,United States,United States,
+8/20/18,Full Time,86498d90-327b-410d-93ae-5683f77f6ba3,Systems Engineer,Infrastructure & Reliability Engineering,,Michael Atzet,Company HQ,United States,United States,4/1/22
+6/1/22,Full Time,8a35818c-6495-4ea5-9086-66c1e7bf1589,Product Marketing Specialist,Marketing,Jeff Richardson,Sierra Scott,Company HQ,United States,United States,
+2/5/18,Full Time,80e12b4c-1152-422d-a934-f4beaa16f50a,Lead Marketing Development Representative,Marketing,Mary Miller,Rob Alvarez,Company HQ,United States,United States,6/28/22
+2/27/17,Part Time,e0605777-1751-481c-999e-7f2a40b9df0a,Marketing Development Representative,Sales,,Marcy Klinger,Remote-ID,United States,United States,7/9/19
+8/1/12,Full Time,1e9eca1a-8d42-4805-a8f1-6aa126dfc434,Software Engineer,Development,,Rasim Adjasmanov,Company HQ,United States,,5/21/15
+3/1/18,Contractor,b9b10ae4-595b-4b0e-8c4b-0cb4a44435b3,Business Development Mgr,Sales,,Stephane Panyasiri,France,,France,3/6/19
+4/20/15,Full Time,aa32e068-3078-4e52-8225-a6a92961c810,"VP, Data Supply Partnerships",Sales,,Jon Nolz,Remote-WA,United States,,5/17/16
+6/1/17,Contractor,a25c9474-1421-4339-8e03-57075699b1c8,Client Success Manager,Client Success,Zach Turnlund,Mark Liu,China,,China,
+12/4/17,Full Time,8a871221-8032-4584-ba2f-a06d1f0f48dc,Lead Generation Specialist,Marketing,Mary Miller,Troy Olson,Company HQ,United States,United States,3/16/21
+1/16/17,Full Time,db7f1fda-a1e5-4afd-999c-e1458719558f,Client Success Manager-Collective,Client Success,Melinda Park,Emily Jackson,Company HQ,United States,United States,8/13/21
+4/3/17,Full Time,c82e904b-da99-4734-b72c-4febce711e14,Lead Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Corbin Staaben,Remote-WA,United States,United States,
+8/23/15,Contractor,73138557-1178-4332-9c08-7aa524c6786c,Client Success Manager,Client Success,Zach Turnlund,Sunglyong Kim,Korea,,"Korea, Republic of",
+7/24/17,Full Time,0067a62b-074a-4c4f-a63a-2086b86eae4d,"Manager, Client Analytics",Client Analytics,Grant Simmons,Kate Darren,Company HQ,United States,United States,
+12/5/16,Full Time,642a58b8-2ef8-48d0-9b01-4488e6cfae48,Client Success Manager,Client Success,Matt Gillis,Josiah Balcom,Company HQ,United States,United States,3/24/17
+5/11/20,Full Time,e6ff2924-30e1-465c-a524-b62245eea9d1,Senior Software Engineer,Development,,Robert Catmull,Remote-ID,United States,United States,2/7/22
+6/22/20,Intern,333d98cd-a371-4d9a-9ffb-c9964060d510,Software Engineering Intern,Solution Engineering,Dakota Jackson,Kayla Foremski,Company HQ,United States,United States,8/28/20
+8/15/10,Full Time,3ff5a2aa-377a-48d2-8e7c-aa8e7d97c6a8,UX Designer,Product,Seth Samuels,Benjamin Drechsel,Company HQ,United States,United States,11/1/17
+6/1/20,Intern,9009effe-d794-4fd0-a098-17184fdfb767,Marketing Intern,Marketing,Leslie Amadio,Jacob Matt,Company HQ,United States,United States,8/21/20
+5/14/18,Full Time,9d6d2937-af6b-4005-aad3-3a03a5dad5f4,Product Manager,Product,,Travis Vetters,Company HQ,United States,United States,2/28/19
+4/27/20,Full Time,4a6447bd-5128-4643-8c8f-0ae3c40707ab,Director of Infrastructure & Reliability Engineering,Infrastructure & Reliability Engineering,Seth Samuels,Bruce Jarvis,Remote-WA,United States,United States,5/27/22
+1/3/13,Full Time,e0fd09d8-49c4-45d1-b110-aa0f9eef912b,Senior Software Engineer,Development,Seth Samuels,Aubrey Falconer,Company HQ,United States,United States,11/18/16
+7/21/14,Full Time,ccff1036-664c-4d8d-8a4f-a0b7f1bd7d15,Client Success Manager,Client Success,Matt Gillis,Daniel Charvoz,Company HQ,United States,United States,1/29/16
+5/21/18,Full Time,89577fd9-751b-4a9d-8dc4-89025e870b7b,Senior Manager of Product Operations,Client Success,Matt Gillis,Patrick Hurley,Company HQ,United States,United States,
+1/6/20,Full Time,d5674e19-fde7-4e03-b365-bace8cfe38dd,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Cameron Massey,Remote-WA,United States,United States,
+9/15/15,Full Time,c1f2980b-db05-4f09-99a4-26b94af66563,Client Success Manager,Client Success,Matt Gillis,Travis Sherman,Company HQ,United States,United States,4/18/16
+4/25/16,Full Time,202b0cfb-767c-4d60-9fcf-2a7a0ae38eb3,Accounting Manager,Administration,Doug Lieuallen,Belinda Nolte,Company HQ,United States,United States,
+7/1/10,Full Time,5062105c-5f6c-4d23-84ce-598f3f4e7d67,Software Engineer,Development,,Haans Galassi,Company HQ,United States,,1/30/15
+7/5/17,Full Time,a2d6c818-eb01-4838-8969-ecae275285c5,Sales Engineer,Product,James Benoit,James Gill,Remote-CA,United States,United States,1/17/19
+1/14/19,Full Time,a4be6d8e-2e6c-45ef-8da7-8af75f0c2c51,In House Counsel,Administration,Dave Matt,Joey Myers,Company HQ,United States,United States,
+5/11/17,Full Time,0325c7c4-b1a1-4abf-97af-541c8e599ea9,"VP, Data Supply Partnerships",Sales,Brian Cox,Tyler McKinley,Oregon,United States,United States,4/22/21
+3/9/20,Full Time,91bee9fe-cbbc-4c8f-8609-84c83220514d,Client Success Manager,Client Success,Nick Bentley,Neal Luther,Company HQ,United States,United States,5/4/21
+1/28/19,Full Time,59244676-5387-4868-b56c-c14b651110b6,Director Client Analytics,Client Analytics,Grant Simmons,Kevin King,Remote-CO,,United States,
+6/6/16,Full Time,bfd32bee-5878-41f5-965a-dc4bfc5071ec,Senior Software Engineer,Development,Vince Prevost,Carter Currin,Company HQ,United States,United States,
+10/24/16,Full Time,63c5b760-64c2-4b3e-8246-267fbcdc18ef,"Lead Software Engineer, SDK",Development,Nathan Darst,James Morris,Company HQ,United States,United States,
+5/26/14,Full Time,abfb4a81-8fc4-4760-ba5a-98253ccb0bf8,Senior Sales Manager,Sales,Mary Miller,Andrew Lightbody,Company HQ,United States,United States,
+6/16/14,Full Time,ba59972d-cb97-4de8-945c-f3dd467a7582,Systems Engineer,Infrastructure & Reliability Engineering,,Will Harrison,Company HQ,United States,,11/5/14
+6/4/18,Full Time,40d10ef0-2ac9-4792-8026-baa2fa9d5e45,Software Engineer,Development,,Mark Old,Remote-WA,United States,United States,4/1/22
+9/9/19,Full Time,59b4b803-0559-435c-b5b4-033af00954d7,Linux System Administrator,Infrastructure & Reliability Engineering,,David Turner,Company HQ,United States,United States,5/28/21
+8/24/15,Full Time,aef2c1bf-c967-4276-8a07-dbf9c2fdcf0c,Security Manager,Information Security,Seth Samuels,Dan Wordell,Company HQ,United States,United States,1/31/17
+9/28/15,Contractor,ee7c6a78-1316-4ab2-88b2-15cabacf1ec6,Lead Software Engineer/Architect,Development,,Crozzy Crosland,Spain,United States,United States,1/15/21
+12/3/18,Full Time,68929803-aef1-4cc1-8c30-481391a00813,"EVP, Global Sales",Executive,Charles Manning,Steve Bair,Remote-CA,United States,United States,3/19/20
+2/1/16,Full Time,5936750b-944b-4356-90bb-c8e42c954470,"Manager of Sales Engineering, EMEA",Client Success,James Benoit,Kevin Garrett,Company HQ,United States,United States,
+7/29/19,Full Time,c58be67c-78f5-4237-b70d-b090a83e65d3,Client Success Manager,Client Success,Kevin Garrett,Alexis Jensen,Company HQ,United States,United States,9/26/19
+5/5/14,Full Time,4e1d2d6e-82fc-4678-84da-5002a24143d3,Sales Director,Sales,,Tim Guo,Remote-CA,United States,,9/26/14
+5/11/20,Full Time,4956eef1-aa71-44e8-b6a9-afaedcba02c2,Client Success Manager,Client Success,Patrick Hurley,Katie Heil,Company HQ,United States,United States,6/10/21
+2/9/15,Full Time,b376908d-b8fd-4f64-9e3b-e54b8a9650de,Lead Software Engineer,Development,Vince Prevost,Nick Otter,Remote-ID,United States,United States,
+2/24/16,Full Time,f11df0c3-acfc-46b9-98e7-76fa1edb6910,Controller,Administration,Doug Lieuallen,Lisa Sharpe,Company HQ,United States,United States,
+1/5/15,Full Time,565e186a-c6d9-4b54-818b-1536b5644d0f,Systems Engineer,Infrastructure & Reliability Engineering,,John Millican,Company HQ,United States,,10/16/15
+12/1/14,Contractor,60a0080a-ab08-4a11-97ce-76f7f495240c,"Managing Director, APAC",Sales,Jeff Chai,John Zhang,China,,China,9/30/18
+3/22/17,Full Time,a15c1885-9fd4-44ba-af1e-21ceee79f6ef,"Manager of Client Success, Collective",Client Success,Nick Bentley,Melinda Park,Company HQ,United States,United States,
+9/15/15,Full Time,788ae0f7-a76b-47ae-98d8-7c8ee326dd41,VP Audience Demand,Sales,,Tan Tmangraksat,Remote-CA,United States,United States,2/14/17
+1/2/18,Full Time,f84a4493-a7c9-4fc7-a6d8-dcbc7ed0f040,Sales Director,Sales,,Jennifer Burrington,Remote-CO,,United States,3/15/19
+8/29/19,Part Time,fcdd25f5-2007-44f4-997d-acbe040fff8e,Finance Intern,Administration,Doug Lieuallen,Nathan Schwartz,Remote-WA,United States,United States,8/14/20
+1/2/18,Full Time,a8d04e66-3f7f-49d6-89be-56b208ab2ae0,"Manager, Client Analytics",Client Analytics,Kevin King,Tyler Levasseur,Company HQ,United States,United States,
+9/8/15,Full Time,79894d2b-99ba-4127-bab9-f48ca23dc705,Client Success Manager,Client Success,,Shawn Shokouhi,Company HQ,United States,United States,9/17/15
+11/26/18,Full Time,8f02387d-e0f3-418c-a1d4-ed65dcae44ed,Site Reliability Engineer,Infrastructure & Reliability Engineering,Ethan Lewis,Dustin Rice,Oregon,United States,United States,8/26/19
+7/19/16,Full Time,dbc475e5-86b6-4f37-8a54-6a2529c05558,"Director, Software Engineering - Flex",Development,Seth Samuels,Nathan Darst,Company HQ,United States,United States,
+11/27/17,Full Time,090b3e5a-3afa-4535-a672-592814f6b0ef,Manager of Kochava Success,Client Success,Matt Gillis,Benjamin Phillips,Company HQ,United States,United States,9/18/20
+6/22/15,Full Time,7543d605-425e-4aed-990a-50ad820976c1,Software Engineer,Development,Seth Samuels,Joshua Ohm,Company HQ,United States,,1/29/16
+9/30/19,Full Time,63cb2c6c-fe65-49d6-a33a-8cd11c370dab,Director of Public Relations,Marketing,Mary Miller,Leslie Amadio,Company HQ,United States,United States,
+6/1/20,Full Time,12088620-d394-447d-b065-13eb85ed2adc,"Manager of Client Success, m/OS",Client Success,Nick Bentley,Austin Bentley,Company HQ,United States,United States,
+9/8/15,Full Time,2c43e5fc-ef0b-4616-8e34-2088bc374b63,Security Manager,Information Security,Seth Samuels,Adam Lambert,Company HQ,United States,United States,
+1/2/18,Full Time,b924cc75-f197-4a6e-ab57-b30377a279ed,Product Manager,Product,,Andrea (Correa) Dove,Company HQ,United States,United States,4/23/21
+10/28/16,Full Time,67f63edc-f768-44a6-87e8-89905488d0ed,VP Sales,Sales,Charles Manning,Luke Anderson,Company HQ,United States,United States,4/23/21
+6/12/17,Full Time,f2f140df-0691-4ddd-a4fd-6c654d6d5846,Development Intern,Solution Engineering,,Zachary Gillenwater,Company HQ,United States,United States,8/14/18
+2/5/18,Full Time,1f379f12-f1f4-46b6-8e1d-a78c1feb88aa,Sr. Revenue Accountant,Administration,Lisa Sharpe,Lindsey Leddy,Company HQ,United States,United States,
+8/14/14,Full Time,f6d6c67d-a207-4c6a-bd49-67d114d210a9,Product Marketing Mgr-Kochava,Marketing,Jason Hicks,Christopher Blanford,Company HQ,United States,United States,5/12/17
+11/30/15,Full Time,d433afc7-22a9-4767-a335-2274cd4e0399,Database Administrator,Infrastructure & Reliability Engineering,Seth Samuels,Robert Evans,Company HQ,United States,United States,6/16/17
+9/30/19,Intern,4f1a8481-2493-40c2-b915-d67e58476b1f,Support Engineer Intern,Infrastructure & Reliability Engineering,Gordon Brown,Luke Uzabel,Company HQ,United States,United States,8/28/20
+8/3/15,Full Time,393d762f-541d-42eb-9e97-ded26c854b5d,Software Engineer,Development,Seth Samuels,Gordon Goldner,Company HQ,United States,,2/12/16
+8/4/14,Full Time,d2807608-ac9f-4562-97e3-865f199c8b4e,Senior Site Reliability Engineer,Infrastructure & Reliability Engineering,,Noel  Cower,Company HQ,United States,United States,9/11/20
+12/27/17,Full Time,c8e776af-76e0-4445-af96-c2376bafc017,Software Engineer - Solutions & Integrations,Solution Engineering,,Justin Murdock,Company HQ,United States,United States,5/24/18
+6/15/15,Full Time,9ff4d2b1-694d-4f3c-9c8d-1ed2314363fc,Lead Client Partnership Manager,Client Partnerships,Jason Hicks,Taylor Morris,Company HQ,United States,United States,8/30/19
+9/15/14,Full Time,0ba7c1a1-a28e-463e-bca0-0095bfef4a0c,Creative Director,Marketing,Kimberly Manning,Jasen Jahn,Company HQ,United States,United States,8/10/18
+8/15/16,Full Time,bc7eb482-a5b2-4fe7-9b33-87eca800673f,Product Manager,Product,Seth Samuels,Michael Sarchio,Company HQ,United States,United States,10/21/16
+2/13/12,Full Time,d75cb9bb-02f6-4616-b648-84d85bf24e55,Senior Software Engineer - Android,Development,Seth Samuels,Karl Schaefer,Company HQ,United States,,3/25/16
+5/5/14,Full Time,11d32b51-da5f-483e-b5c1-b10ff8469fa3,VP of Engineering & Product,Development,Seth Samuels,Eric Mann,Company HQ,United States,United States,12/14/18
+10/23/17,Full Time,57ca3cde-2d50-417b-bd39-c97796eb9e2e,Lead Client Success Manager - Collective,Client Success,Matt Gillis,Jake Courtright,Company HQ,United States,United States,5/1/20
+7/8/19,Full Time,846bf3d9-f266-431d-b7c0-a624ddef0fe9,Sr. Client Success Manager,Client Success,Kevin Garrett,Paige Lilly,Company HQ,United States,United States,3/4/22
+1/4/14,Full Time,7ec9ee42-b569-4ee7-958b-f224c5e59de0,Director of Infrastructure & Reliability Engineering,Infrastructure & Reliability Engineering,,Wayne Pignolet,Company HQ,United States,,8/6/15
+1/2/18,Full Time,67313b75-cbb3-4c6c-91c7-6432d703ef6d,Product Marketing Mgr-Xchng,Marketing,Mary Miller,Matt Hrushka,Remote-CA,United States,United States,10/4/19
+3/21/11,Full Time,b82ebcdb-f4eb-4cd2-9451-76c441a64fda,Software Engineer,Development,,Koby Allard,Company HQ,United States,,3/20/15
+6/20/17,Full Time,1a3237b8-53e0-4fe6-a6e3-4072163a9443,Senior Software Engineer,Development,Vince Prevost,Eli Cook,Remote-OR,United States,United States,
+12/9/19,Full Time,f6d1216e-6377-45db-92a7-009ab557f144,Software Engineer,Solution Engineering,Nathan Darst,Henry Hill,Company HQ,United States,United States,3/28/22
+10/15/18,Full Time,b66045e1-2961-4d91-946b-5d8875b3f0b2,Lead Client Success Manager - Collective,Client Success,Matt Gillis,Victor Correa,Company HQ,United States,United States,2/19/21
+6/17/13,Full Time,a7308dc0-efe6-4420-aacf-e0bc610a80b2,HR Operations Manager,Administration,Jill Bentley,Brenda Allen,Company HQ,United States,United States,
+12/2/19,Full Time,d485ff4f-3d5b-4278-9dcc-728c2c325783,"Manager of Client Success, Emerging Products",Client Success,Nick Bentley,Sean Ruggles,Company HQ,United States,United States,
+5/28/19,Full Time,efbf8193-c326-4e32-ba1c-9a2b80aa56e4,Site Reliability Engineer,Infrastructure & Reliability Engineering,Ethan Lewis,Derrick Wright,Oregon,United States,United States,10/18/19
+7/16/18,Contractor,70e770ba-bedd-4725-a549-4c4acbbb45da,Client Success Manager,Client Success,Matt Gillis,Alexandra Dimian,Ireland,,Ireland,1/10/20
+5/15/18,Contractor,f7d36c9a-6ee8-403a-86a1-9b8d8b43e2be,Business Development Mgr,Sales,Jeff Chai,Masataka Taira,Japan,,Japan,10/31/18
+6/29/15,Full Time,7a654359-2871-467a-9a00-2a167929c497,Software Engineer - Front End,UI,Israel Karasek,Adam Cragg,Company HQ,United States,United States,9/5/18
+9/9/19,Full Time,2d7567f6-cb6a-4f5f-8eb9-3b344365f6f1,GM Mazzaroth,Executive,Charles Manning,Brian Cox,Company HQ,United States,United States,
+10/14/19,Full Time,b00f2832-e1c0-44cc-ae16-e8f0640f5ad2,Sr. Client Success Manager,Client Success,Daniel Folan,Guillermo Martinez,Ireland,,Ireland,
+9/21/20,Full Time,2fb144b6-0172-434f-bc38-ecb26d0d854f,Client Success Manager,Client Success,Nick Bentley,Woody Dixon,Company HQ,United States,United States,5/14/21
+9/21/20,Full Time,5afd7fbc-c96f-4389-bf00-c12cf116beb8,"Manager, Site Reliability Engineer",Infrastructure & Reliability Engineering,,Dave Cavaletto,Remote-ID,United States,United States,2/11/22
+9/28/20,Full Time,e6c07cf6-1f40-4691-8ffe-4d2a90803693,Software Engineer,Development,Vince Prevost,Kolby McGarrah,Remote-MT,United States,United States,7/15/22
+10/1/20,Contractor,2b2d0068-75f5-449e-9e7f-5f7a4c328cc7,"Head of Sales, Kochava Japan",Sales,Jeff Chai,Stephan  Yoshii,Japan,,Japan,5/31/22
+10/5/20,Full Time,ada9ab7f-f89a-45a3-a714-856d805dc982,Software Engineer,Development,Jeff Simpson,Chase Demole,Remote-LA,,United States,
+5/30/17,Full Time,c506bb2a-9238-4137-95b2-f88a5b6ec32d,Associate Software Engineer,Development,Vince Prevost,Tyler Alway,Remote-OR,United States,United States,6/1/18
+10/16/17,Full Time,d77c3e6f-dd11-4345-9853-33fef5840015,DevOps Engineer,Infrastructure & Reliability Engineering,,Avinash Bellapu,Company HQ,United States,United States,7/27/18
+2/1/16,Full Time,4d5d0424-95f4-4e86-bb6f-940839b39bbb,Senior Sales Manager,Sales,,Richard Burish,Remote-CA,United States,United States,11/13/17
+4/24/17,Full Time,4ac2ae1e-7444-46bf-a754-1e3660b0f6a6,Product Manager,Product,,Matthew Caraway,Company HQ,United States,United States,2/6/18
+6/14/16,Full Time,6c62cea7-4dd9-48f3-9661-14dd20cb7641,UX Designer,UI,Israel Karasek,Janel Gion,Company HQ,United States,United States,2/22/18
+3/27/17,Full Time,5364a0f4-2ed0-44fd-a4f1-fc02e341c46b,VP of Engineering & Product,Development,Seth Samuels,Darin Glatt,Oregon,United States,United States,4/10/18
+6/13/16,Full Time,337222fa-f08c-4c46-b61e-f3ceda1df639,Client Success Manager,Client Success,Luke Schramm,Ben Johnson,Company HQ,United States,United States,4/5/18
+5/28/13,Full Time,63b70cf5-5090-41fd-bfaf-d457a61547b9,Product Analyst,Product,James Benoit,David Kosiba,Company HQ,United States,United States,4/27/18
+7/31/17,Full Time,a2217ec2-b319-44b1-886b-67b743bce287,VP Sales - West,Sales,,Niels Kvaavik,Remote-CA,United States,United States,7/12/18
+4/6/15,Full Time,0b367e3a-0ce3-475c-8b87-d99bda3de9ab,Senior Sales Manager,Sales,,James Linden,Remote-CA,United States,United States,11/13/17
+2/6/17,Full Time,7d3f74a4-418d-4a00-8452-2b017b7235d2,Associate Software Engineer,Development,,Jacob Marble,Company HQ,United States,United States,3/21/18
+3/27/17,Full Time,c5ad65d3-c082-4d01-aad2-6e94f9a13bf5,Associate Software Engineer,Development,Vince Prevost,Vikram Ramesh,Oregon,United States,United States,5/16/18
+3/8/17,Full Time,e3eadaa6-9068-4e54-9bf2-1eefe578b72d,Data Scientist,Data Science,Paul Nieman,Kyle Sloane,Company HQ,United States,United States,4/20/18
+3/5/18,Full Time,24ad43ce-67e3-4b42-bb52-200a6f0f7c26,Sales Director,Sales,,Clayton Steel,Remote-CA,United States,United States,8/9/18
+11/16/15,Full Time,ca7d608d-a35c-4076-8a71-4f7532e72743,Lead Client Success Manager,Client Success,Matt Gillis,Alexander Vincent,Ireland,,United States,6/22/18
+10/2/17,Full Time,ce497667-3fea-4bfe-bfba-3cc708155bcd,Associate Software Engineer,Development,Mark Wunsch,Andrew Wells,Company HQ,United States,United States,5/9/18
+3/13/17,Full Time,ef6802e2-5fac-4736-affa-9a46c6c6b325,Sales Director,Sales,,David Zemke,Remote-CA,United States,United States,1/5/18
+8/27/10,Full Time,fd9c0bfc-e8cd-444c-b46d-3e1d6186a23a,Senior Software Engineer - iOS,Development,Seth Samuels,David Bardwick,Remote-MT,United States,United States,4/28/17
+3/12/18,Full Time,d1495951-4899-44ba-b622-c12d0677db5a,UX Designer,Product,,Amy Huguenin,Company HQ,United States,United States,3/29/19
+8/28/17,Full Time,5178694c-4a7f-454b-9fcb-5588dfac5904,Site Reliability Engineer,Infrastructure & Reliability Engineering,Ethan Lewis,Ryan Thompson,Oregon,United States,United States,8/22/19
+10/19/20,Full Time,67eeebc8-7f7e-4ad6-ad3e-fa320945aa95,Client Partnership Manager,Client Partnerships,Trevor Hamilton,Sam McCabe,Remote-CA,United States,United States,
+10/19/20,Full Time,f757e800-31b9-4dfd-9c97-3e87e6c1cc16,Information Security Specialist,Information Security,Adam Lambert,Ben Moree,Company HQ,United States,United States,
+10/19/20,Full Time,457b38ca-0dab-4d7d-ae7f-8b06d9323d81,Client Success Manager,Client Success,Daniel Folan,Andy Hope,Ireland,,Ireland,
+10/19/20,Full Time,e97d1f22-b801-4f05-b984-e41380dad343,Site Reliability Engineer,Infrastructure & Reliability Engineering,Brennan Sandusky,Laura Dungan,Spain,United States,Spain,
+11/9/20,Full Time,c2c77e6c-4044-47b3-b5ae-a8191bf35cc7,Software Engineering Manager,Development,Seth Samuels,Mike Wagner,Remote-MT,United States,United States,4/15/22
+5/24/21,Full Time,f0dd912f-3a0b-4cb3-9fdb-515d644b5c65,Senior Software Engineering Manager,Solution Engineering,Mark Wunsch,Mike Peck,Company HQ,United States,United States,
+9/7/21,Full Time,e11e72c0-5ab6-4e66-89fe-33ba8fea8167,Database Administrator,Infrastructure & Reliability Engineering,David Carpentier,Matthew Montgomery,Remote-TX,,United States,
+6/28/21,Full Time,d129ad8b-c20e-41ca-b415-dfea5374dccb,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Michael Peters,Remote-WA,United States,United States,
+7/1/21,Full Time,18701905-12aa-49c0-b1c1-adfbb08f406c,Client Success Manager,Client Success,Daniel Folan,Ritika Singh,Ireland,,Ireland,11/1/21
+7/1/21,Full Time,a809ecb3-24a0-4535-aea2-f7dd647b9aea,Client Success Manager,Client Success,Zach Turnlund,Kent Kai,China,,China,
+7/12/21,Full Time,008df092-b0fb-4258-b58e-2569ac37f46c,Associate Client Success Manager,Client Success,Kevin Garrett,Anna Aileen Burley,Company HQ,United States,United States,2/11/22
+7/14/21,Contractor,c810af2f-2a36-4f50-b1ab-8c1b1b9a74a1,Digital Marketing Manager,Marketing,Mary Miller,Khawaja Hussain,United Arab Emirates,,United Arab Emirates,
+11/7/16,Full Time,6ff655df-d781-44c8-8ddf-0935b34bc5f6,Data Science Analyst,Data Science,Paul Nieman,Cale Kanack,Company HQ,United States,United States,1/28/22
+9/13/21,Intern,fa914b5d-7cdf-4707-83c2-32f693dbaa56,Software Engineering Intern,Solution Engineering,Corbin Staaben,Ben Murray,Company HQ,United States,United States,12/30/21
+1/3/22,Full Time,47556d0f-6164-4c9b-83bc-1c81fca09f77,Client Success Manager,Client Success,Austin Bentley,Kathy Hilton,Remote-ID,United States,United States,
+9/1/21,Full Time,16a22a2e-3a01-4f24-9cd1-85f2e15679df,HR Business Partner,Administration,Jill Bentley,Kelly Farmin,Company HQ,United States,United States,
+9/1/21,Full Time,23440fb7-cd9f-455b-a49e-fc11aa9a212d,Client Partnership Manager,Client Partnerships,Levi Schoonover,Brian  Ferry,Company HQ,United States,United States,10/18/21
+9/13/21,Contractor,7bec60c1-8ce5-404e-9dd1-2e780f81cde1,Interim VP Sales Operations,Sales,Nic Beraudo,Silvia Buermann,Germany,,Germany,6/30/22
+8/23/21,Full Time,8543d13d-695d-4e1b-9249-a0c744e17a8e,Sr Project Manager,Development,Seth Samuels,Dave Mertz,Company HQ,United States,United States,11/26/21
+11/8/21,Full Time,cb4e149e-e6be-426d-8ef1-c04c622d1137,Client Partnership Manager,Client Partnerships,Levi Schoonover,Leah Evans,Company HQ,United States,United States,
+10/25/21,Full Time,fb78efce-9183-4262-b569-96ff908a38e5,Marketing Development Representative,Marketing,Mary Miller,Joe Garcia,Company HQ,United States,United States,
+10/4/21,Full Time,487308aa-ebcc-4c43-a920-4b9f2b27e41f,Client Success Manager,Client Success,Austin Bentley,Adam Alverez,Company HQ,United States,United States,
+10/4/21,Full Time,7b27b520-fc11-4d96-8ab2-7072dfc7e013,Client Onboarding Manager,Client Success,James Benoit,Jacob Manfred,Company HQ,United States,United States,
+10/4/21,Full Time,9bb1f6ca-fb78-48db-b566-6538bd6cd06c,Client Success Manager,Client Success,Nick Bentley,Brook Wilson,Company HQ,United States,United States,
+10/4/21,Full Time,92155ee0-9d61-4dbd-9153-2b0e86a2db6c,"Regional VP of Sales, EMEA",Sales,Nic Beraudo,Arthur Novarina,Spain,United States,Spain,
+11/29/21,Full Time,346c8e64-41d4-448f-83c7-d05795ec87c0,Software Engineer - Solutions & Integrations,Solution Engineering,Scott Contri,Andrew Faust,Remote-ID,United States,United States,
+11/29/21,Full Time,acd38dbe-1a5d-41bb-a589-3e82b569737a,Site Reliability Engineer,Infrastructure & Reliability Engineering,,Scott  Bellows,Remote-TX,,United States,1/21/22
+11/29/21,Full Time,3c416fe1-5059-460f-a24f-c846e2f19013,Email Marketing Analyst,Marketing,Mary Miller,Jesus Gonzalez,Remote-CA,United States,United States,
+11/8/21,Full Time,e12896fd-4693-4ced-b2f2-ea99a880ea12,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Cole Gilmore,Remote-ID,United States,United States,
+5/31/22,Full Time,54ed5508-fc45-4131-943d-4530e1be122d,Network Engineer,Infrastructure & Reliability Engineering,David Carpentier,Gavin Quinn,Remote-ID,United States,United States,
+5/15/17,Full Time,5271c69c-95aa-4501-a3ee-aeede431c0ee,Lead Software Engineer,Development,Vince Prevost,Dakota Jackson,Company HQ,United States,United States,
+12/13/21,Full Time,069b01fb-0a84-486b-af42-fadbb2570047,Associate Client Success Manager,Client Success,Nick Bentley,Joseph Steckmann,Company HQ,United States,United States,2/10/22
+1/10/22,Full Time,050adac1-a444-44a5-ad53-7c569cfb7641,Project Manager,Development,Seth Samuels,Bob Frank,Company HQ,United States,United States,
+5/23/22,Intern,021f139e-0c03-442c-b1fd-c76348a26174,Software Engineering Intern,Solution Engineering,Mike Peck,Hayden Carroll,Remote-ID,United States,United States,
+8/1/21,Full Time,00d61fcc-bd43-464c-b1ed-41c2e32d53bc,"Manager of Client Success, m/OS",Client Success,Matt Gillis,Zach Turnlund,Company HQ,United States,United States,
+4/18/22,Full Time,199d6bf1-89af-4ebd-8436-22c74c9b825e,Senior Software Engineer - Front End,UI,Israel Karasek,Joseph Mendoza,Remote-TX,,United States,
+2/7/22,Full Time,adb846b6-98c7-4fdc-9e85-335a80f2a706,Sales Director,Sales,Trevor Hamilton,Josh Bishop,Remote-ID,United States,United States,
+2/7/22,Full Time,47ec482d-7aa3-4fc6-944d-5baad00a50fa,Client Insights Analyst,Client Analytics,Kate Darren,Tempie Kirsch,Company HQ,United States,United States,
+3/14/22,Full Time,2fd7283a-73d8-42b5-a85e-7b8481f9317d,Salesforce Administrator,Sales,Nic Beraudo,Sarah Chattin,Remote-GA,,United States,
+3/14/22,Full Time,918a0be9-0aea-445e-a71b-d4ccb570dce6,Associate Client Success Manager,Client Success,Austin Bentley,Kaitlyn Garneau,Company HQ,United States,United States,
+2/14/22,Full Time,4bac812f-6b71-4820-85a5-8d9adab9658b,Marketing Development Representative,Marketing,,Dallas Hopkins,Company HQ,United States,United States,5/13/22
+4/1/22,Contractor,b3017b65-b3ce-4613-95ac-71a33da3be05,"Account Executive, EMEA",Sales,Arthur Novarina,Arkady Yurkansky,Spain,United States,Russian Federation,
+4/4/22,Full Time,4a61d319-91f7-4a12-b28a-d2087c352b1c,Inside Sales Manager,Sales,Mary Miller,John Gallegos,Company HQ,United States,United States,
+4/4/22,Full Time,177b83da-5a0e-4749-a331-c6ae20905325,Staff Accountant,Administration,Lisa Sharpe,Wendy Layer,Company HQ,United States,United States,
+4/4/22,Full Time,c415b9df-b100-440e-afc2-233dd1423e1f,Client Partnership Manager,Client Partnerships,Levi Schoonover,Morgan Hepler,Company HQ,United States,United States,
+2/21/22,Full Time,49a8c3d4-2338-4cbd-9faf-5d6093926594,Product Manager,Product,Hamilton Radcliffe,Kelly Dennehy,Remote-ID,United States,United States,
+2/21/22,Full Time,82bca534-a557-4e05-80dd-0bc86015eee6,Software Engineer - Solutions & Integrations,Solution Engineering,Corbin Staaben,Pierce Fleming,Remote-WA,United States,United States,
+2/21/22,Full Time,3a7695c8-7147-40c7-9950-dba155611b38,Associate Client Success Manager,Client Success,Nick Bentley,Miller Murray,Company HQ,United States,United States,
+2/21/22,Full Time,d63dd163-4c81-4575-9407-40e8d8a4181c,Client Success Manager,Client Success,Kevin Garrett,Andy Pedersen,Company HQ,United States,United States,3/29/22
+4/11/22,Full Time,554305ad-72cb-4758-be33-76918534c6cb,Content Marketing Specialist,Marketing,Leslie Amadio,Chloe Huffman,Company HQ,United States,United States,
+4/11/22,Full Time,e7d57c0c-bdc7-43a9-b02d-ce8b0b20b412,Associate Data Science Analyst,Data Science,Paul Nieman,Chris Langford,Remote-UT,,United States,
+4/11/22,Full Time,51230c8f-3588-4cd4-b4df-24dca3e2a5af,Site Reliability Engineer,Infrastructure & Reliability Engineering,Brennan Sandusky,Erik Kranzusch,Remote-MI,,United States,
+2/21/22,Full Time,5e062f2f-f9b9-45d5-bd86-551b77f956ac,"VP Sales, Media & Entertainment",Sales,Trevor Hamilton,Jason Howell,Remote-NC,,United States,
+4/11/22,Full Time,dcae7085-80f6-4724-9775-93840797596d,Associate Client Success Manager,Client Success,Melinda Park,Madison Scott,Company HQ,United States,United States,
+4/11/22,Full Time,2389c8cb-5bb0-4f95-aa2f-c57e847d1bad,Software Engineering Manager,Development,Nathan Darst,Cesar Arata,Spain,United States,Spain,
+9/30/19,Full Time,1eee592c-18ca-4870-8d38-27ef58b8af0f,Client Partnership Manager,Client Partnerships,Levi Schoonover,Caitlin Quill,Ireland,,Ireland,
+6/27/22,Contractor,f4df360c-23e8-4984-9e65-5267b26427aa,Software Engineering Intern,Solution Engineering,Mike Peck,Dalton Hawkins,Company HQ,United States,United States,
+6/20/22,Contractor,93529ebb-95d5-4a3b-8674-21b86ceb5d31,"Sales Manager, China",Sales,Yuli Wang,Berlin Wen,China,,,
+6/27/22,Full Time,efc6fe58-6e07-4737-8e3d-1aea2e5b3bb6,Software Engineer - Solutions & Integrations,Solution Engineering,Mike Peck,Derek Valenzuela,Remote-ID,United States,United States,
+5/16/22,Full Time,5ec149b0-9f24-49f2-b827-3fd61d57cd4c,Client Success Manager,Client Success,Daniel Folan,Kayde Fisher,Ireland,,Ireland,
+5/16/22,Full Time,d5ef5901-8e89-4297-a24e-dee9afe69ec3,Associate Client Success Manager,Client Success,Austin Bentley,Jeff Lawrence,Company HQ,United States,United States,
+5/16/22,Full Time,91ff2cd8-c398-407d-b22f-22547010928c,Product Manager,Product,Hamilton Radcliffe,Simon Cheng,Remote-CA,United States,United States,
+10/5/18,Full Time,f440d433-03f2-412a-bb90-20231cef472c,Unknown Job Title,,,Time Off Admin,,,,
+10/8/18,Full Time,428088a7-b0f0-403d-ac04-89c4b95a8216,Accounting Manager,,,Test EE - Time Off,,,,10/11/18
+8/29/22,Full Time,b3dfc4cb-9a2f-4d20-9d96-4473484d6af5,Software Engineer - Solutions & Integrations,,,Michael Washburn,,,,
+7/25/22,Full Time,f2e23600-0e7a-421f-a8bd-e51d3bb236bd,VP of Global Client Partnerships,,Nic Beraudo,Scott Bauer,,,United States,

@@ -1,0 +1,17 @@
+2022-10-19 08:58:27,631 - Job Name - INFO - Line:672 - executing: select from namely_report (started: 2022-10-19 08:58:27)
+2022-10-19 08:58:27,631 - Job Name - DEBUG - Line:676 - ----------------------------------------
+ SELECT report_guid,
+                       job_title,
+                       departments,
+                       departure_date,
+                       start_date,
+                       employee_type,
+                       office_locations,
+                       employee_name,
+                       reports_to_name,
+                       country_name,
+                       extract_date
+                FROM namely.namely_report
+                WHERE extract_date >= '2022-09-01'
+----------------------------------------
+2022-10-19 08:58:37,325 - Job Name - INFO - Line:672 -  run time: 9.69  seconds
