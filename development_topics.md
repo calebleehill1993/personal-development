@@ -1,0 +1,20 @@
+# Topics to review
+- What are Connection Strings for SQL databases
+- What are Triggers in SQL.
+- When to use different ML algorithms.
+- List of all Python Packages that I’ve used
+- Star Schema (Facts and Dimensions)
+- Data Engineering Principles
+- Docstrings
+- Version Control
+- Logging
+- URLs and requests and responses
+- Connecting to APIs
+- Connecting to Databases
+- Pandas
+- NumPy
+- Command Line and shell
+- Hypothesis Testing Individual things
+- Dashboarding with Python
+- Website Deploying in Python
+- Python Datatypes
