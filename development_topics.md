@@ -18,3 +18,4 @@
 - Dashboarding with Python
 - Website Deploying in Python
 - Python Datatypes
+- Enumerate / enum
