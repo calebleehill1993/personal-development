@@ -1,1 +1,1 @@
-# personal_development
+# personal-development

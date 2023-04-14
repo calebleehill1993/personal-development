@@ -5,7 +5,7 @@
 I created my repository on github. Following that, I wanted to have the repository match on my local machine. Github recommends running the following code on your local machine in the newly created folder that will be the repository.
 
 ```
-echo "# personal_development" >> README.md
+echo "# personal-development" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -14,7 +14,7 @@ git remote add origin https://github.com/calebleehill1993/personal_development.g
 git push -u origin main
 ```
 
-`echo "# personal_development" >> README.md` places the text `# personal_development` inside a file called `README.md` and creates that file if it doesn't exist.
+`echo "# personal-development" >> README.md` places the text `# personal-development` inside a file called `README.md` and creates that file if it doesn't exist.
 
 `git init` adds the `.git` directory to the current directory and initializes the folder as a git repository.
 
